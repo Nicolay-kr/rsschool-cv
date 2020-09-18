@@ -50,3 +50,32 @@
     >
     > Сivil engineer
  <br> 
+ 
+ ## WORK EXPIRIENCE
+   
+* ### Self-employed
+
+     > **project title:** www.revconmgt.com
+     >
+     > **discription:** revconmgt.com
+     > is adaptive web application which was implemented for REVCON, LLS. It’s contain complete information about company and has form for service order.
+     >
+     > **Technologies used:** HTML, CSS, JavaScript, Python (Django), SQLite, GIT.
+     >
+     > **Application link:** <http://www.revconmgt.com>
+     >
+     > **Code link:** <https://github.com/Nicolay-kr/revcon_managment>
+     <br>
+     
+     
+     > **project title:** [www.griffelstudio.com](https://nicolay.pythonanywhere.com/)
+     >
+     > **discription:** griffelstudio.com
+     > is adaptive web application which was implemented for Griffel Studio company. It’s contain information about company, video tutorial, form for service order.
+     >
+     > **Technologies used:** HTML, CSS, JavaScript, Python (Django), SQLite, GIT.
+     >
+     > **Application link:** [http://www.griffelstudio.com](https://nicolay.pythonanywhere.com/)
+     >
+     > **Code link:** <https://github.com/Nicolay-kr/griffel_studio>
+
