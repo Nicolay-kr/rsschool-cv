@@ -11,3 +11,22 @@
 >
 > Skype: nicolay021
 <br>
+
+## SKILLS
+
+**Front End:**                
+  * HTML5 - ***
+  * CSS3 - ***
+  * JavaScript - **
+  * Bootstrap - **
+
+**Back End:**
+ * Python *Django* - ***
+
+**Databases:**
+  * SQL - **
+  * MySQL - **
+
+**Version Control System:**
+  * Git - ***
+<br>
