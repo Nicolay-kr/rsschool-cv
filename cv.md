@@ -51,7 +51,7 @@
     > Сivil engineer
  <br> 
  
- ## WORK EXPIRIENCE
+## WORK EXPIRIENCE
    
 * ### Self-employed
 
