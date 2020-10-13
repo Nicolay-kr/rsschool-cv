@@ -18,7 +18,6 @@
   * HTML5 - ***
   * CSS3 - ***
   * JavaScript - **
-  * Bootstrap - **
 
 **Back End:**
  * Python *Django* - ***
@@ -75,7 +74,7 @@
      >
      > **Technologies used:** HTML, CSS, JavaScript, Python (Django), SQLite, GIT.
      >
-     > **Application link:** [http://www.griffelstudio.com](https://nicolay.pythonanywhere.com/)
+     > **Application link:** [http://www.griffelstudio.com](https://griffelstudio.azurewebsites.net/)
      >
      > **Code link:** <https://github.com/Nicolay-kr/griffel_studio>
 
